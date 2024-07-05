@@ -1,2 +1,3 @@
-# CUFS
-Closed Unit Federation system
+# CUFS - Closed Unit Federation system
+CUFS Is a concept of Semi-Decentralization service and data management bazed on no-trust, For each service like authentification is closed on own centralized system named Unit and no share any data without authorization even Developer. example if I have an App. and I want to connected to my account, you need to call Authentification Unit to get specific data, my App cannot get data without autorization even if is the same project. For developping an Unit, each keys / certificat is given and controled by system, and for production each keys / certificat is randomized and rotate automatically and inaccessible without authentorization by service. ua.
+
